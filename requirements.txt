@@ -1,0 +1,6 @@
+aiogram
+deepface
+mtcnn
+opencv-python
+pillow
+numpy
